@@ -7,6 +7,7 @@ winget install --id=sharkdp.bat -e
 # winget install --id=astral-sh.uv  -e
 winget install jdx.mise
 # winget install -e --id CoreyButler.NVMforWindows
+winget install -e --id JesseDuffield.lazygit
 
 winget install --id=astral-sh.uv  -e
 

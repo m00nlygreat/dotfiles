@@ -12,3 +12,4 @@ winget install -e Valve.Steam
 winget install -e --id Microsoft.VisualStudioCode
 winget install -e Obsidian.Obsidian
 winget install -e Figma.Figma
+winget install -e --id Raycast.Raycast
